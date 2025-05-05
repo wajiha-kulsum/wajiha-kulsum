@@ -38,17 +38,8 @@
 
 </div>
 
----
 
 ## 📅 Contribution Calendar
 
 ![GitHub Contribution Graph](https://ghchart.rshah.org/Wajiha-Kulsum)
 
-*Contribution Analysis*
-mermaid
-pie
-    title Contribution Intensity
-    "High (10+ commits)" : 15
-    "Medium (5-9 commits)" : 32
-    "Low (1-4 commits)" : 42
-    "Zero days" : 276
