@@ -14,6 +14,12 @@
   | ------------- | ------------- |
   
 </div>
+pie
+    title Weekly Development Breakdown
+    "React Components" : 42
+    "API Development" : 25
+    "Testing" : 18
+    "DevOps" : 15
 
 <!-- ==================== 3D TECH STACK ==================== -->
 ## 🔮 Tech Nebula
@@ -34,3 +40,5 @@ const techStack = {
 .tech-icon {
   animation: tech-orbit 20s linear infinite;
 }
+
+
