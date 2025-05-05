@@ -25,3 +25,12 @@ const techStack = {
   tools: ['Webpack', 'Vite', 'Cypress'],
   learning: ['WebGL', 'Rust', 'WebAssembly']
 };
+
+@keyframes tech-orbit {
+  0% { transform: rotate(0deg) translateX(150px) rotate(0deg); }
+  100% { transform: rotate(360deg) translateX(150px) rotate(-360deg); }
+}
+
+.tech-icon {
+  animation: tech-orbit 20s linear infinite;
+}
