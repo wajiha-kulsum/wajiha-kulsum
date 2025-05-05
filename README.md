@@ -38,18 +38,18 @@
 2. **Task Management Mobile App**  
    - React Native application with Firebase backend
    - [GitHub Repo](https://github.com/Wajiha-Kulsum/task-manager-app)
--->
 ---
+-->
 
 ### 🤝 Connect With Me
 <p align="center">
   <a href="https://linkedin.com/in/wajiha-kulsum" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://www.linkedin.com/in/wajiha-kulsum-101301219/" alt="LinkedIn" />
   </a>
-  <a href="mailto:wajiha.kulsum@example.com">
+  <a href="mailto:wajihakulsum786@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://leetcode.com/Wajiha_Kulsum/" target="_blank">
+  <a href="https://neetcode.io/practice" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
 </p>
