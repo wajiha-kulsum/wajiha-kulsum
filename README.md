@@ -11,51 +11,71 @@
   <img src="https://img.shields.io/github/followers/Wajiha-Kulsum?label=GitHub%20Followers&style=social" alt="GitHub Followers" />
 </p>
 
-
-
+---
 
 ## 🚀 Technical Expertise
-- *Frontend Development*: HTML5, CSS3, JavaScript (ES6+), React.js
-- *Mobile Development*: React Native
-- *Backend Basics*: Node.js, Express.js
-- *Styling*: Bootstrap, Tailwind CSS
-- *Tools*: Git, Figma, Webpack
-- *Currently Learning*: TypeScript, Next.js
 
- ## 🛠 Technical Arsenal
+- **Frontend Development**: HTML5, CSS3, JavaScript (ES6+), React.js
+- **Mobile Development**: React Native
+- **Backend Basics**: Node.js, Express.js
+- **Styling**: Bootstrap, Tailwind CSS
+- **Tools**: Git, Figma, Webpack
+- **Currently Learning**: TypeScript, Next.js
+
+---
+
+## 🛠 Technical Arsenal
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,tailwind,bootstrap,figma,git,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,tailwind,bootstrap,figma,git,github" alt="Tech Stack" />
 </p>
 
+---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
   
   | <img src="https://github-readme-stats.vercel.app/api?username=Wajiha-Kulsum&show_icons=true&theme=radical" width="400"> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=Wajiha-Kulsum&theme=radical" width="400"> |
   |---|---|
-  <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wajiha-Kulsum&layout=compact&theme=vision-friendly-dark" alt="Top Languages" />
-</p> 
-
   
-  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Wajiha-Kulsum&theme=react-dark&hide_border=true&area=true)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wajiha-Kulsum&layout=compact&theme=vision-friendly-dark" alt="Top Languages" width="60%" />
+  
+  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Wajiha-Kulsum&theme=react-dark&hide_border=true&area=true)
 
 </div>
 
+---
 
-## 📅 Contribution Calendar
+## 📅 Contribution Matrix
 
-![GitHub Contribution Graph](https://ghchart.rshah.org/Wajiha-Kulsum)
+![Contribution Graph](https://ghchart.rshah.org/Wajiha-Kulsum)
+
+---
+
+## 🤝 Let's Connect
 
 <p align="center">
-<i>Open to new opportunities and collaborations!</i><br>
-<i>Let's build something amazing together! ✨</i>
+  <a href="https://www.linkedin.com/in/wajiha-kulsum-101301219/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:wajihakulsum786@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://neetcode.io/practice" target="_blank">
+    <img src="https://img.shields.io/badge/NeetCode_Practice-FFA116?style=for-the-badge&logoColor=white" alt="NeetCode Practice" />
+  </a>
 </p>
 
+---
 
-<!-- ==================================== FOOTER SECTION ==================================== -->
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=120&section=footer&text=Let's Build Something Amazing!&fontSize=24&fontColor=ffffff&animation=fadeIn" />
+  <i>🚀 Open to new opportunities and collaborations!</i><br>
+  <i>💡 Let's build something amazing together! ✨</i>
 </p>
+
+<div align="center">
+  
+  ![Footer Wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer)
+
+</div>
