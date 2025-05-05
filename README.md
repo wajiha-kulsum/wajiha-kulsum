@@ -19,7 +19,7 @@
 - Mobile Development: React Native
 - Backend Basics: Node.js, Express.js
 - Styling: Bootstrap, Tailwind CSS
-- Tools: Git, Figma, Webpack
+- Tools: Git, Figma,  <!---Webpack-->
 - Currently Learning: TypeScript, Next.js
 
  ## 🛠 Technical Arsenal
