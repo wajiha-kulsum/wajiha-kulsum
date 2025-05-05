@@ -1,93 +1,69 @@
-
-# 👋 Hi, I'm Wajiha Kulsum
-
-<p align="center">
-  <i>A passionate Frontend Developer from India 🇮🇳, crafting seamless and delightful web experiences</i>
-</p>
+<h1 align="center">Hi 👋, I'm Wajiha Kulsum</h1>
+<h3 align="center">Passionate Frontend Developer | Crafting Engaging Web Experiences</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-brightgreen?style=flat-square" alt="Open to Opportunities" />
-  <a href="https://github.com/WajihaKulsum">
-    <img src="https://img.shields.io/github/followers/WajihaKulsum?label=Follow&style=social" alt="GitHub Followers" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=Wajiha-Kulsum&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Wajiha-Kulsum?label=GitHub%20Followers&style=social" alt="GitHub Followers" />
 </p>
 
 ---
 
-## 🌟 About Me
-- 💻 **Specializing in** responsive, user-centric web and mobile applications.
-- 🚀 **Currently working on** a React Native app for task management.
-- 🌱 **Learning** Next.js and TypeScript to build scalable web apps.
-- 📬 **Reach me at** wajihakulsum@example.com.
-- ⚡ **Fun fact**: I sketch UI wireframes by hand before coding them!
+### 🚀 Technical Expertise
+- **Frontend Development**: HTML5, CSS3, JavaScript (ES6+), React.js
+- **Mobile Development**: React Native
+- **Backend Basics**: Node.js, Express.js
+- **Styling**: Bootstrap, Tailwind CSS
+- **Tools**: Git, Figma, Webpack
+- **Currently Learning**: TypeScript, Next.js
 
 ---
 
-## 🤝 Connect with Me
+### 📈 GitHub Stats
 <p align="center">
-  <a href="https://linkedin.com/in/wajiha-kulsum" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40" title="LinkedIn"/>
-  </a>
-  <a href="https://twitter.com/WajihaKulsum" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="Twitter" width="40" height="40" title="Twitter"/>
-  </a>
-  <a href="https://your-portfolio.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/devicon/devicon-original.svg" alt="Portfolio" width="40" height="40" title="Portfolio"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Wajiha-Kulsum&show_icons=true&theme=vision-friendly-dark" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Wajiha-Kulsum&theme=vision-friendly-dark" alt="GitHub Streak" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wajiha-Kulsum&layout=compact&theme=vision-friendly-dark" alt="Top Languages" />
 </p>
 
 ---
 
-## 🛠️ Languages and Tools
+### 💼 Featured Projects
+1. **E-Commerce Platform**  
+   - React.js & Tailwind CSS powered responsive web application
+   - [GitHub Repo](https://github.com/Wajiha-Kulsum/e-commerce-platform)
+
+2. **Task Management Mobile App**  
+   - React Native application with Firebase backend
+   - [GitHub Repo](https://github.com/Wajiha-Kulsum/task-manager-app)
+
+---
+
+### 🤝 Connect With Me
 <p align="center">
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50" title="HTML5"/>
+  <a href="https://linkedin.com/in/wajiha-kulsum" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50" title="CSS3"/>
+  <a href="mailto:wajiha.kulsum@example.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" title="JavaScript"/>
-  </a>
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React Native" width="50" height="50" title="React Native"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50" title="Node.js"/>
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express" width="50" height="50" title="Express"/>
-  </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="50" height="50" title="Bootstrap"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="50" height="50" title="Tailwind CSS"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="50" height="50" title="Figma"/>
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="50" height="50" title="C"/>
+  <a href="https://leetcode.com/Wajiha_Kulsum/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
 </p>
 
 ---
 
-## 📊 GitHub Stats
+### 🛠️ Technical Arsenal
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=WajihaKulsum&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WajihaKulsum&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" width="300"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,tailwind,bootstrap,figma,git,github" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
-- **[E-Commerce Platform](https://github.com/WajihaKulsum/ecommerce)**: A responsive online store built with React, Tailwind CSS, and Node.js.
-- **[Task Manager App](https://github.com/WajihaKulsum/task-manager)**: A mobile app for task organization using React Native and Express.
-
----
-
 <p align="center">
-  <i>Let's create something extraordinary together! ✨</i>
+  <i>Open to new opportunities and collaborations!</i><br>
+  <i>Let's build something amazing together! ✨</i>
 </p>
