@@ -22,6 +22,12 @@
 - *Tools*: Git, Figma, Webpack
 - *Currently Learning*: TypeScript, Next.js
 
+ ## 🛠 Technical Arsenal
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,tailwind,bootstrap,figma,git,github" />
+</p>
+
 
 ## 📊 GitHub Stats
 
@@ -38,21 +44,13 @@
 
 </div>
 
-## 🛠 Technical Arsenal
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,tailwind,bootstrap,figma,git,github" />
-</p>
+## 📅 Contribution Calendar
 
----
+![GitHub Contribution Graph](https://ghchart.rshah.org/Wajiha-Kulsum)
 
 <p align="center">
 <i>Open to new opportunities and collaborations!</i><br>
 <i>Let's build something amazing together! ✨</i>
 </p>
-
-
-## 📅 Contribution Calendar
-
-![GitHub Contribution Graph](https://ghchart.rshah.org/Wajiha-Kulsum)
 
