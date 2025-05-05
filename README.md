@@ -52,14 +52,6 @@
  <a href="https://neetcode.io/practice" target="_blank">
   <img src="https://img.shields.io/badge/NeetCode_Practice-FFA116?style=for-the-badge&logoColor=white" alt="NeetCode Practice" />
 </a>
-  <p align="center">
-  <a href="https://bento.me/yourusername" target="_blank">
-    <img src="https://img.shields.io/badge/Bento.me-Visit%20Profile-6c5ce7?style=for-the-badge" alt="Bento.me" />
-  </a>
-  <a href="https://twitter.com/yourusername" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-Follow%20Me-1DA1F2?style=for-the-badge&logo=twitter" alt="Twitter" />
-  </a>
-</p>
 </p>
 
 ---
