@@ -50,6 +50,4 @@ pie
   <img src="https://ghchart.rshah.org/Wajiha-Kulsum" alt="3D Contributions" style="transform: rotateX(20deg) rotateY(-10deg); box-shadow: 0 25px 50px -12px rgba(16, 185, 129, 0.25);">
 </div>
 
-<!-- Alternative 3D Theme -->
-[![3D Code Landscape](https://github-readme-activity-graph.vercel.app/graph?username=Wajiha-Kulsum&theme=3d&bg_color=0d1117&color=58a6ff&line=238636&point=238636&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
