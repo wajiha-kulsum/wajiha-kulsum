@@ -12,6 +12,17 @@
 </p>
 
 
+
+---
+
+### 🚀 Technical Expertise
+- *Frontend Development*: HTML5, CSS3, JavaScript (ES6+), React.js
+- *Mobile Development*: React Native
+- *Backend Basics*: Node.js, Express.js
+- *Styling*: Bootstrap, Tailwind CSS
+- *Tools*: Git, Figma, Webpack
+- *Currently Learning*: TypeScript, Next.js
+
 ---
 
 ## 📊 GitHub Stats
