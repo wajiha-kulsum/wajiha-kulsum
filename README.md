@@ -7,10 +7,10 @@
 <h3 align="center">🚀 Transforming Ideas into Interactive Experiences</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Wajiha-Kulsum&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views">
-  <img src="https://img.shields.io/github/followers/Wajiha-Kulsum?label=Followers&style=social">
-  <img src="https://wakatime.com/badge/user/your-wakatime-id.svg" alt="Coding Time">
+  <img src="https://komarev.com/ghpvc/?username=Wajiha-Kulsum&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Wajiha-Kulsum?label=GitHub%20Followers&style=social" alt="GitHub Followers" />
 </p>
+
 
 ---
 
