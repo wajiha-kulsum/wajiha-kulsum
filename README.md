@@ -29,7 +29,7 @@
 </p>
 
 ---
-
+<!--
 ### 💼 Featured Projects
 1. **E-Commerce Platform**  
    - React.js & Tailwind CSS powered responsive web application
@@ -38,7 +38,7 @@
 2. **Task Management Mobile App**  
    - React Native application with Firebase backend
    - [GitHub Repo](https://github.com/Wajiha-Kulsum/task-manager-app)
-
+-->
 ---
 
 ### 🤝 Connect With Me
