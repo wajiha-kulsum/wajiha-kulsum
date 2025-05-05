@@ -43,11 +43,3 @@ pie
     "Zero days" : 276
 
 
-
-    ## 🌌 3D Contribution Matrix
-
-<div align="center" style="perspective: 1000px; transform-style: preserve-3d;">
-  <img src="https://ghchart.rshah.org/Wajiha-Kulsum" alt="3D Contributions" style="transform: rotateX(20deg) rotateY(-10deg); box-shadow: 0 25px 50px -12px rgba(16, 185, 129, 0.25);">
-</div>
-
-
