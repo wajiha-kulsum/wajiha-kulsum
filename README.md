@@ -44,10 +44,13 @@
 
 </div>
 
+<!--
 
 ## 📅 Contribution Calendar
 
 ![GitHub Contribution Graph](https://ghchart.rshah.org/Wajiha-Kulsum)
+
+-->
 
 <p align="center">
 <i>Open to new opportunities and collaborations!</i><br>
