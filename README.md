@@ -54,3 +54,8 @@
 <i>Let's build something amazing together! ✨</i>
 </p>
 
+
+<!-- ==================================== FOOTER SECTION ==================================== -->
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=120&section=footer&text=Let's Build Something Amazing!&fontSize=24&fontColor=ffffff&animation=fadeIn" />
+</p>
