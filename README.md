@@ -38,6 +38,19 @@
 
 </div>
 
+## 🛠 Technical Arsenal
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,tailwind,bootstrap,figma,git,github" />
+</p>
+
+---
+
+<p align="center">
+<i>Open to new opportunities and collaborations!</i><br>
+<i>Let's build something amazing together! ✨</i>
+</p>
+
 
 ## 📅 Contribution Calendar
 
