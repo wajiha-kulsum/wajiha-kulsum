@@ -6,6 +6,8 @@
 
 <h3 align="center">🚀 Transforming Ideas into Interactive Experiences | Open Source Contributor</h3>
 
+<h3 align="center">🚀 Transforming Ideas into Interactive Experiences | Open Source Contributor</h3>
+
 ## 📊 GitHub Stats
 
 <div align="center">
