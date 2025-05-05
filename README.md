@@ -11,7 +11,11 @@
 <div align="center">
 
 | <img src="https://github-readme-stats.vercel.app/api?username=Wajiha-Kulsum&show_icons=true&theme=radical" width="400"> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=Wajiha-Kulsum&theme=radical" width="400"> |
+
 | --- | --- |
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wajiha-Kulsum&layout=compact&theme=vision-friendly-dark" alt="Top Languages" />
+</p>
 
 [](https://github-readme-activity-graph.vercel.app/graph?username=Wajiha-Kulsum&theme=react-dark&hide_border=true&area=true)
 
