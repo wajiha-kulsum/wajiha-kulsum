@@ -29,28 +29,16 @@
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Analytics
-
 <div align="center">
-
-  <!-- Stats & Streak Cards -->
-  <a href="https://github.com/Wajiha-Kulsum">
-    <img src="https://github-readme-stats-phi-eight-73.vercel.app/api?username=Wajiha-Kulsum&show_icons=true&theme=radical&include_all_commits=true" width="400">
-    <img src="https://github-readme-streak-stats-phi-eight-73.vercel.app/?user=Wajiha-Kulsum&theme=radical&date_format=j%20M%5B%20Y%5D" width="400">
-  </a>
-
-  <!-- Streak Details -->
+  
+  | <img src="https://github-readme-stats.vercel.app/api?username=Wajiha-Kulsum&show_icons=true&theme=radical" width="400"> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=Wajiha-Kulsum&theme=radical" width="400"> |
+  |---|---|
   <p align="center">
-    <img src="https://img.shields.io/badge/Longest%20Streak-24_days-important" alt="Longest Streak">
-    <img src="https://img.shields.io/badge/Current%20Streak-11_days-success" alt="Current Streak">
-    <img src="https://img.shields.io/badge/Total%20Contributions-1.2k_commits-blueviolet" alt="Total Contributions">
-  </p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wajiha-Kulsum&layout=compact&theme=vision-friendly-dark" alt="Top Languages" />
+</p> 
 
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats-phi-eight-73.vercel.app/api/top-langs/?username=Wajiha-Kulsum&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="50%">
-
-  <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph-phi-eight-73.vercel.app/graph?username=Wajiha-Kulsum&theme=github-compact&hide_border=true&area=true" alt="Activity Graph">
+  
+  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Wajiha-Kulsum&theme=react-dark&hide_border=true&area=true)
 
 </div>
 
