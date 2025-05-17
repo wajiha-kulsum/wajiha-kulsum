@@ -43,11 +43,11 @@
 </div>
 
 
-
+<!--
 ## 📅 Contribution Calendar
 
 ![GitHub Contribution Graph](https://ghchart.rshah.org/Wajiha-Kulsum)
-
+-->
 
 
 <p align="center">
