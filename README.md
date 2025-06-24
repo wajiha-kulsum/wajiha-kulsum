@@ -86,21 +86,5 @@
 
 
 
-<!--
-## 🌱 Current Focus
 
-```mermaid
-graph LR
-  A[Frontend Development] --> B[React 18 Features]
-  A --> C[State Management Patterns]
-  A --> D[Microfrontend Architecture]
-  
-  E[Technical Growth] --> F[Advanced TypeScript]
-  E --> G[Next.js Optimization]
-  E --> H[Design Systems]
-  
-  I[Community] --> J[Technical Writing]
-  I --> K[Open Source Contributions]
-  I --> L[Mentorship]
 
-  -->
