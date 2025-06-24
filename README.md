@@ -1,3 +1,78 @@
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Wajiha+Kulsum;Frontend+Developer;React+Specialist;UI%2FUX+Enthusiast" alt="Typing SVG">
+  </a>
+</h1>
+
+<h3 align="center">Web Developer | Crafting Engaging Web Experiences</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Wajiha-Kulsum&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Wajiha-Kulsum?label=GitHub%20Followers&style=social" alt="GitHub Followers" />
+</p>
+
+
+## 🚀 Technical Expertise
+- Frontend Development: HTML5, CSS3, JavaScript (ES6+), React.js
+- Mobile Development: React Native
+- Backend Basics: Node.js, Express.js
+- Styling: Bootstrap, Tailwind CSS
+- Tools: Git, Figma,  <!---Webpack-->
+- Currently Learning: TypeScript, Next.js
+
+ ## 🛠 Technical Arsenal
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,tailwind,bootstrap,figma,git,github" />
+</p>
+
+
+## 📊 GitHub Stats
+
+<div align="center">
+  
+  | <img src="https://github-readme-stats.vercel.app/api?username=Wajiha-Kulsum&show_icons=true&theme=radical" width="400"> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=Wajiha-Kulsum&theme=radical" width="400"> |
+  |---|---|
+  <p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wajiha-Kulsum&layout=compact&theme=vision-friendly-dark" alt="Top Languages" />
+</p> 
+
+  
+  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Wajiha-Kulsum&theme=react-dark&hide_border=true&area=true)
+
+</div>
+
+
+<!--
+## 📅 Contribution Calendar
+
+![GitHub Contribution Graph](https://ghchart.rshah.org/Wajiha-Kulsum)
+-->
+
+
+<p align="center">
+<i>Open to new opportunities and collaborations!</i><br>
+</p>
+
+<div align="center">
+  
+  ![Footer Wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer)
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <div align="center">
   <a href="https://wajiha-portfolio.vercel.app">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=4A8EFF&center=true&vCenter=true&width=600&lines=Wajiha+Kulsum;Frontend+Engineer+%7C+React+Specialist+%7C+UI%2FUX+Designer" alt="Header Typing Animation">
@@ -27,21 +102,8 @@
 
 ---
 
-## 🚀 Professional Profile
 
-Frontend Engineer specializing in React ecosystem with expertise in building performant, accessible web applications. Currently pursuing Computer Science degree while developing production-grade solutions. Passionate about UI/UX design principles and creating seamless user experiences.
-
-**Core Expertise:**
-- React & React Native application development
-- Modern JavaScript/TypeScript ecosystems
-- Responsive UI implementation (Tailwind CSS, CSS-in-JS)
-- State management solutions (Redux, Context API)
-- Component library development
-- Performance optimization techniques
-- UI/UX design with Figma
-
----
-
+<!--
 ## 🛠 Technical Proficiencies
 
 ### Frontend Development
@@ -64,32 +126,8 @@ Frontend Engineer specializing in React ecosystem with expertise in building per
 ![Jest](https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=white&style=flat)
 
 ---
+-->
 
-## 📊 Development Metrics
-
-<div align="center">
-  
-  | **GitHub Analytics** | **Contribution Graph** |
-  |----------------------|------------------------|
-  | <img src="https://github-readme-stats.vercel.app/api?username=Wajiha-Kulsum&show_icons=true&theme=algolia&hide_border=true&include_all_commits=true&count_private=true" width="400"> | <img src="https://github-readme-activity-graph.vercel.app/graph?username=Wajiha-Kulsum&theme=react-dark&hide_border=true&area=true&custom_title=Development%20Activity" width="400"> |
-  
-  | **Language Distribution** | **Streak Stats** |
-  |---------------------------|------------------|
-  | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wajiha-Kulsum&layout=compact&theme=algolia&hide_border=true&langs_count=8" width="400"> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=Wajiha-Kulsum&theme=algolia&hide_border=true" width="400"> |
-  
-</div>
-
----
-
-## 🏆 Technical Accomplishments
-
-- **Performance Optimization**: Reduced initial load time by 65% through code splitting and lazy loading
-- **Design System**: Created component library serving 3+ production applications
-- **Accessibility**: Achieved WCAG 2.1 AA compliance for enterprise SaaS platform
-- **Mentorship**: Conducted React workshops for 100+ developers at university tech club
-- **Open Source**: Contributed to React community projects with 500+ monthly downloads
-
----
 
 ## 🌱 Current Focus
 
