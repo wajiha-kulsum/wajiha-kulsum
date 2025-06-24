@@ -19,7 +19,8 @@
 - Styling: Bootstrap, Tailwind CSS
 - Tools: Git, Figma,  <!---Webpack-->
 - Currently Learning: TypeScript, Next.js
-
+- 
+<!--
 ## 🛠 Technical Proficiencies
 
 ### Frontend Development
@@ -41,7 +42,7 @@
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white&style=flat)
 ![Jest](https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=white&style=flat)
 
----
+--->
 
  ## 🛠 Technical Arsenal
 
@@ -85,7 +86,7 @@
 
 
 
-
+<!--
 ## 🌱 Current Focus
 
 ```mermaid
@@ -101,3 +102,5 @@ graph LR
   I[Community] --> J[Technical Writing]
   I --> K[Open Source Contributions]
   I --> L[Mentorship]
+
+  -->
