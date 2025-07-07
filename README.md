@@ -18,7 +18,7 @@
 - Backend Basics: Node.js, Express.js
 - Styling: Bootstrap, Tailwind CSS
 - Tools: Git, Figma,  <!---Webpack-->
-- Currently Learning: TypeScript, Next.js
+- Currently Learning: TypeScript, Next.js, Postgress
 - 
 <!--
 ## 🛠 Technical Proficiencies
