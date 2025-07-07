@@ -19,7 +19,7 @@
 - Styling: Bootstrap, Tailwind CSS
 - Tools: Git, Figma,  <!---Webpack-->
 - Currently Learning: TypeScript, Next.js, Postgress
-- 
+  
 <!--
 ## 🛠 Technical Proficiencies
 
