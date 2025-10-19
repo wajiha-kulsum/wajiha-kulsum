@@ -2,12 +2,12 @@
 
 # Wajiha Kulsum
 
- Frontend Developer | React Specialist
+### Frontend Developer | React Specialist
 
 
 </div>
 
----
+
 
 ## About
 
