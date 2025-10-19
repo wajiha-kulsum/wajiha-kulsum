@@ -2,7 +2,7 @@
 
 # Wajiha Kulsum
 
-### Frontend Developer | React Specialist
+### Full-Stack Developer
 
 
 </div>
