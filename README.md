@@ -1,47 +1,47 @@
-<div align="center">
+```console
+wajiha@web:~$ whoami
+wajiha kulsum — full-stack developer
 
-# Wajiha Kulsum
+wajiha@web:~$ cat about.txt
+i build things for the web, from pixel to server.
 
-**Full-Stack Developer**
-
-<sub>pixel → server</sub>
-
-</div>
-
-<br>
-
-```js
-const wajiha = {
-  role: "full-stack developer",
-  focus: ["react", "node", "clean ui"],
-  building: "things for the web, from pixel to server",
-  learning: ["TypeScript", "Next.js"],
-  currently: "shipping > perfecting",
-};
+wajiha@web:~$ tree stack/
 ```
 
-<br>
+```text
+stack/
+├── frontend/
+│   ├── react
+│   ├── javascript (es6+)
+│   ├── html5 / css3
+│   ├── tailwind · bootstrap
+│   └── react-native
+├── backend/
+│   ├── node.js
+│   └── express.js
+├── tools/
+│   └── git · github · figma
+└── in-progress/
+    ├── typescript
+    └── next.js
+```
 
-## Stack
+```console
+wajiha@web:~$ git log --oneline -3
+```
 
-| | |
-|---|---|
-| **Core** | React · JavaScript (ES6+) · HTML5 · CSS3 · React Native |
-| **Styling** | Tailwind CSS · Bootstrap · Responsive Design |
-| **Backend** | Node.js · Express.js |
-| **Tools** | Git · GitHub · Figma |
-| **Learning** | TypeScript · Next.js |
+```diff
++ a1b2c3d  learning typescript, properly this time
++ e4f5g6h  getting comfortable with next.js
++ i7j8k9l  shipping ui that doesn't look like a template
+```
 
-<br>
+```console
+wajiha@web:~$ ./contact.sh
+```
 
 <p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,bootstrap,nodejs,express,git,github,figma,ts,nextjs&theme=dark" />
-  </a>
+  <a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/github-0d1117?style=flat-square&logo=github&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/YOUR_HANDLE"><img src="https://img.shields.io/badge/linkedin-0d1117?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/email-0d1117?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
-
-<br>
-
-## Contact
-
-[GitHub](https://github.com/YOUR_USERNAME) · [LinkedIn](https://linkedin.com/in/YOUR_HANDLE) · [Email](mailto:YOUR_EMAIL)
