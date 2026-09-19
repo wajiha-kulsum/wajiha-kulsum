@@ -1,87 +1,47 @@
-<h1 align="center">Wajiha Kulsum</h1>
+```console
+wajiha@web:~$ whoami
+wajiha kulsum — full-stack developer
 
-<p align="center">
-  <b>Full-Stack Developer</b><br>
-  I build for the web, from pixel to server.
-</p>
+wajiha@web:~$ cat about.txt
+i build things for the web, from pixel to server.
 
-<p align="center">
-  <a href="https://YOUR_SITE">Portfolio</a> &nbsp;•&nbsp;
-  <a href="https://linkedin.com/in/YOUR_HANDLE">LinkedIn</a> &nbsp;•&nbsp;
-  <a href="mailto:YOUR_EMAIL">Email</a>
-</p>
+wajiha@web:~$ tree stack/
+```
 
-<br>
+```text
+stack/
+├── frontend/
+│   ├── react
+│   ├── javascript (es6+)
+│   ├── html5 / css3
+│   ├── tailwind · bootstrap
+│   └── react-native
+├── backend/
+│   ├── node.js
+│   └── express.js
+├── tools/
+│   └── git · github · figma
+└── in-progress/
+    ├── typescript
+    └── next.js
+```
 
-## 👋 About
+```console
+wajiha@web:~$ git log --oneline -3
+```
 
-I'm a full-stack developer who cares about how things look **and** how they're built. I like taking an idea from a Figma frame to a deployed product: responsive interfaces on the front, clean Express APIs on the back.
+```diff
++ a1b2c3d  learning typescript, properly this time
++ e4f5g6h  getting comfortable with next.js
++ i7j8k9l  shipping ui that doesn't look like a template
+```
 
-- 🔭 Currently building: **YOUR CURRENT PROJECT**
-- 🌱 Currently learning: **TypeScript** and **Next.js**
-- 💬 Ask me about: React, React Native, UI implementation, Tailwind
-- ⚡ Fun fact: **ONE LINE ABOUT YOU**
+```console
+wajiha@web:~$ ./contact.sh
+```
 
-<br>
-
-## 🛠 Tech Stack
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,js,html,css,tailwind,bootstrap,nodejs,express,git,github,figma&theme=dark&perline=11">
-    <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,bootstrap,nodejs,express,git,github,figma&theme=light&perline=11" alt="Tech stack">
-  </picture>
-</p>
-
-| | |
-|:--|:--|
-| **Frontend** | React · JavaScript (ES6+) · HTML5 · CSS3 · Tailwind CSS · Bootstrap |
-| **Mobile** | React Native |
-| **Backend** | Node.js · Express.js |
-| **Tools** | Git · GitHub · Figma |
-| **Learning** | TypeScript · Next.js |
-
-<br>
-
-## 🚀 Featured Projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/YOUR_USERNAME/PROJECT_1">Project One</a></h3>
-      <p>One sentence on what it does and who it's for.</p>
-      <sub><code>React</code> <code>Node.js</code> <code>Tailwind</code></sub><br>
-      <sub><a href="https://LIVE_LINK">Live demo</a> · <a href="https://github.com/YOUR_USERNAME/PROJECT_1">Source</a></sub>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/YOUR_USERNAME/PROJECT_2">Project Two</a></h3>
-      <p>One sentence on what it does and who it's for.</p>
-      <sub><code>React Native</code> <code>Express</code></sub><br>
-      <sub><a href="https://LIVE_LINK">Live demo</a> · <a href="https://github.com/YOUR_USERNAME/PROJECT_2">Source</a></sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/YOUR_USERNAME/PROJECT_3">Project Three</a></h3>
-      <p>One sentence on what it does and who it's for.</p>
-      <sub><code>Next.js</code> <code>TypeScript</code></sub><br>
-      <sub><a href="https://LIVE_LINK">Live demo</a> · <a href="https://github.com/YOUR_USERNAME/PROJECT_3">Source</a></sub>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/YOUR_USERNAME/PROJECT_4">Project Four</a></h3>
-      <p>One sentence on what it does and who it's for.</p>
-      <sub><code>JavaScript</code> <code>Express</code></sub><br>
-      <sub><a href="https://LIVE_LINK">Live demo</a> · <a href="https://github.com/YOUR_USERNAME/PROJECT_4">Source</a></sub>
-    </td>
-  </tr>
-</table>
-
-<br>
-
-## 📫 Let's Connect
-
-I'm open to new opportunities and interesting collaborations. The best way to reach me is by [email](mailto:YOUR_EMAIL) or [LinkedIn](https://linkedin.com/in/YOUR_HANDLE).
-
-<p align="center">
-  <sub>Built with care · Last updated 2026</sub>
+<p>
+  <a href="https://github.com/wajiha-kulsum"><img src="https://img.shields.io/badge/github-0d1117?style=flat-square&logo=github&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/wajihakulsum/"><img src="https://img.shields.io/badge/linkedin-0d1117?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:wajihakulsum786@gmail.com"><img src="https://img.shields.io/badge/email-0d1117?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
