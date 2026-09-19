@@ -1,6 +1,6 @@
 ```console
 wajiha@web:~$ whoami
-wajiha kulsum — full-stack developer
+wajiha kulsum — designer/developer
 
 wajiha@web:~$ cat about.txt
 i build things for the web, from pixel to server.
