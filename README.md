@@ -30,11 +30,6 @@ stack/
 wajiha@web:~$ git log --oneline -3
 ```
 
-```diff
-+ a1b2c3d  learning typescript, properly this time
-+ e4f5g6h  getting comfortable with next.js
-+ i7j8k9l  shipping ui that doesn't look like a template
-```
 
 ```console
 wajiha@web:~$ ./contact.sh
